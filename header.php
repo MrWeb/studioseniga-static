@@ -8,7 +8,7 @@
           <li><a class="nav-link <?php active('index')?>" href="index.php">Home</a></li>
           <li><a class="nav-link <?php active('su-di-noi')?>" href="su-di-noi.php">Su di Noi</a></li>
           <li><a class="nav-link <?php active('servizi')?>" href="servizi.php">Servizi</a></li>
-          <!-- <li><a class="nav-link <?php active('circolari')?>" href="circolari.php">Circolari</a></li> -->
+          <li><a class="nav-link <?php active('circolari')?>" href="circolari.php">Circolari</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
