@@ -6,6 +6,7 @@
 
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Studio Seniga<span>.</span></h3>
+            <h5>Commercialisti, Revisori Legali</h5>
             <p>
               Via Romanino, 1 <br>
               25122 Brescia<br>
